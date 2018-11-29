@@ -2,7 +2,7 @@
 
 ## About
 
-Metadata for Tennessee Farm News (tfn), which is one of three publications for the 2018-2019 Ceres grant.
+Metadata for Tennessee Farm News (agrtfn), which is one of three publications for the 2018-2019 Ceres grant.
 
 ## Repository Structure
 
