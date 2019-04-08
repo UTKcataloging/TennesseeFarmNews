@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_004266_003128</identifier>
+   <identifier type="pid">agrtfn:36931</identifier>
+   <titleInfo>
+      <title>Tennessee farm and home news, March 16, 1988</title>
+   </titleInfo>
+   <abstract>Weekly radio script from Knoxville, Tennessee, covering farming and home economics. Includes column "Briefs."</abstract>
+   <physicalDescription>
+      <form authority="aat">radio scripts</form>
+      <extent>17 pages</extent>
+   </physicalDescription>
+   <originInfo>
+      <dateIssued>1988</dateIssued>
+      <publisher>University of Tennessee, Knoxville. Agricultural Extension Service</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <issuance>serial</issuance>
+   </originInfo>
+   <note>Digitized with support from a Project Ceres grant. Project Ceres is a collaboration between the United States Agricultural Information Network (USAIN), the Agriculture Network Information Collaborative (AgNIC) and the Center for Research Libraries (CRL) to support ongoing preservation and digitization of collections in the field of agriculture.</note>
+   <subject authority="lcsh">
+      <topic>Farm management</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Agriculture--Economic aspects</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Radio in agriculture</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79060965">
+      <geographic>Tennessee</geographic>
+      <cartographics>
+         <coordinates>35.75035, -86.25027</coordinates>
+      </cartographics>
+   </subject>
+   <classification authority="lcc">S115 .T5</classification>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Tennessee Farm News</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+</mods>
