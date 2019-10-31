@@ -5,29 +5,50 @@
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <identifier type="local">0012_004266_000158</identifier>
+   <identifier type="issn">2687-9875</identifier>
    <identifier type="pid">agrtfn:43775</identifier>
    <titleInfo>
-      <title>Tennessee farm and home news</title>
+      <title>Tennessee farm news, July 7, 1924</title>
    </titleInfo>
    <abstract>Weekly press release from Knoxville, Tennessee, covering farming and home economics.</abstract>
    <physicalDescription>
       <form authority="aat">press releases</form>
       <form authority="aat">periodicals</form>
+      <extent>4 pages</extent>
    </physicalDescription>
    <originInfo>
-      <dateIssued>1922-1940</dateIssued>
-      <publisher/>
+      <dateIssued>1924</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1924</dateIssued>
+      <publisher>University of Tennessee (Knoxville campus). Agricultural Extension Service</publisher>
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
       <issuance>serial</issuance>
    </originInfo>
    <note>Digitized with support from a Project Ceres grant. Project Ceres is a collaboration between the United States Agricultural Information Network (USAIN), the Agriculture Network Information Collaborative (AgNIC) and the Center for Research Libraries (CRL) to support ongoing preservation and digitization of collections in the field of agriculture.</note>
-   <subject authority="lcsh">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85047223">
       <topic>Farm management</topic>
    </subject>
-   <subject authority="lcsh">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85075872">
+      <topic>Legumes</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85002427">
       <topic>Agriculture--Economic aspects</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85034249">
+      <topic>Crops</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+      <topic>Livestock</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85135709">
+      <topic>Tobacco</topic>
    </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n79060965">
@@ -52,4 +73,6 @@
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 </mods>
